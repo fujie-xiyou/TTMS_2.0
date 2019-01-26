@@ -4,6 +4,6 @@
 
 本项目为大二课程设计作业<br>
 Java客户端: [https://github.com/fujie-xiyou/TTMS_2.0_Client](https://github.com/fujie-xiyou/TTMS_2.0_Client)<br>
-Web前端：[https://github.com/Zhouqn/WEB-TTMS](https://github.com/Zhouqn/WEB-TTMS)<br>
+Web前端（部分功能）：[https://github.com/Zhouqn/WEB-TTMS](https://github.com/Zhouqn/WEB-TTMS)<br>
 服务端: [https://github.com/fujie-xiyou/TTMS_2.0_Server](https://github.com/fujie-xiyou/TTMS_2.0_Server)
 
