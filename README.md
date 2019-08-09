@@ -274,7 +274,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > 图3-1 HLW剧院票务管理系统软件逻辑架构
 
-![TTMS逻辑架构图](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/47ae9dfde088cbe45d67ba29c765c7d8.png?raw=true)
+![TTMS逻辑架构图](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/47ae9dfde088cbe45d67ba29c765c7d8.png)
 
 软件单元
 --------
@@ -285,7 +285,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > 图3-2 界面层类图
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/9c1833fb23441c9296bc865cfb7e3c5e.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/9c1833fb23441c9296bc865cfb7e3c5e.png)
 
 
 > 表 4 界面层软件单元构成
@@ -308,7 +308,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > 图3-3 业务逻辑层类图
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/5a4936439abcfb20f64d783e4ed5c066.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/5a4936439abcfb20f64d783e4ed5c066.png)
 
 
 > 表 5 界面层软件单元构成
@@ -330,7 +330,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > 图3-4 持久化层类图
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/9374a5adee9ef239f1a66203ba31b9a9.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/9374a5adee9ef239f1a66203ba31b9a9.png)
 
 
 
@@ -356,7 +356,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > 图3-5 管理剧目用例处理流程
 
-![会员管理顺序图 (1)](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/70f348cb961eebe1ab370e23ddfaa613.png?raw=true)
+![会员管理顺序图 (1)](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/70f348cb961eebe1ab370e23ddfaa613.png)
 
 ### 管理演出厅(TTMS_UC_02_2)
 
@@ -364,7 +364,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > 图3-6 管理演出厅用例处理流程
 
-![会员管理顺序图 (2)](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/f695bbe5d012ba106ff2f3937af4e094.png?raw=true)
+![会员管理顺序图 (2)](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/f695bbe5d012ba106ff2f3937af4e094.png)
 
 ### 管理用户(TTMS_UC_02_3)
 
@@ -372,7 +372,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 用户管理用例处理流程图如图3-7，管理员用户在成功登录后，可以对用户的信息进行新增修改删除，对应的操作会引起数据库中持久化的数据发生改变。
 
-![会员管理顺序图](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/4a20523f14aab7b619025042977750e4.png?raw=true)
+![会员管理顺序图](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/4a20523f14aab7b619025042977750e4.png)
 
 
 4.人机界面设计
@@ -385,20 +385,20 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > 图4-1 登陆界面草图
 
-![深度截图_选择区域_20180315222539](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/93b73b5b6e8c96f8a3b17ad64270059c.png?raw=true)
+![深度截图_选择区域_20180315222539](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/93b73b5b6e8c96f8a3b17ad64270059c.png)
 
 登录成功后转入主界面 左侧显示功能列表，草图如图4-2
 
 > 图4-2 主界面草图
 
-![深度截图_选择区域_20180315220502](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/0c8ee087ae62ef0994ea2287e1842e2e.png?raw=true)
+![深度截图_选择区域_20180315220502](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/0c8ee087ae62ef0994ea2287e1842e2e.png)
 
 
 当用户选择具体功能后 比如选择 演出厅管理 则图4-3
 
 > 图4-3 具体功能界面草图
 
-![深度截图_选择区域_20180315220929](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/f6651ce35d8ad89f979248664c9752a2.png?raw=true)
+![深度截图_选择区域_20180315220929](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/f6651ce35d8ad89f979248664c9752a2.png)
 
 
 界面上方出现子菜单 可以选择子功能 当用户选择子功能后 界面主体部分将显示相应功能
@@ -406,7 +406,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > 图4-4 删除演出厅界面草图
 
-![深度截图_选择区域_20180315221715](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/4e5a5d7c755812613154417f2281f516.png?raw=true)
+![深度截图_选择区域_20180315221715](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/4e5a5d7c755812613154417f2281f516.png)
 
 整套程序按照这套流程设计
 将其他功能入口放在左栏菜单或者顶栏菜单中,而功能的主体部分展示在界面中间,在功能完整的前提下由负责人自由设计
@@ -419,7 +419,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 登录界面如图4-5所示，用户输入用户名密码之后点击登录按钮即可登录。
 > **图4-5** 登录界面
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/f1311ec6aa4ae8870666ccf8a43abd62.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/f1311ec6aa4ae8870666ccf8a43abd62.png)
 
 
 
@@ -429,7 +429,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > **图4-6** 演出厅管理
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/c751cc3278b05a92d2dca9aa5f93b2c5.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/c751cc3278b05a92d2dca9aa5f93b2c5.png)
 
 ### 座位管理
 
@@ -437,7 +437,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > **图4-7** 座位管理
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/a88eda6486a995f7788e4baa8ad78182.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/a88eda6486a995f7788e4baa8ad78182.png)
 
 ### 用户管理
 
@@ -445,14 +445,14 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > **图4-8** 用户管理
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/9c1131f03e81ca109182fc86caed0ed6.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/9c1131f03e81ca109182fc86caed0ed6.png)
 
 ### 新增演出计划
 
 新增演出计划界面如图4-9所示，新增演出计划功能使用日期选择器和时间选择器让经理提供日期和时间,避免手动输入产生的错误。
 > **图4-9** 新增演出计划
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/66acd2171944f316a4d3fd7fba732380.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/66acd2171944f316a4d3fd7fba732380.png)
 
 
 ### 剧目管理
@@ -460,7 +460,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 剧目管理界面如图4-10所示。
 > **图4-10** 剧目管理
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/bfce2c12566849755211f75115354aa4.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/bfce2c12566849755211f75115354aa4.png)
 
 ### 售票
 
@@ -468,13 +468,13 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > **图4-11** 售票
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/190e6d69d8b3a03b4c6ff63b146f9d33.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/190e6d69d8b3a03b4c6ff63b146f9d33.png)
 
 
 售票成功界面如图4-12所示，售票成功后，订单id可以作为凭证，只需将此弹窗内容打印出来，加上一定的防伪措施，即可产生实体票。
 > **图4-12** 售票成功
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/714b1f73441f66477912972b554dddd7.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/714b1f73441f66477912972b554dddd7.png)
 
 
 
@@ -483,13 +483,13 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 退票界面如图4-13所示，售票员根据用户提供的票上的订单id，先对订单进行查询,若是合法订单id,则会显示订单信息并且显示可用的退票按钮。
 > **图4-13** 退票
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/600eb626128980aed7f98694d6926c96.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/600eb626128980aed7f98694d6926c96.png)
 
 
 退票成功界面如图4-14所示，退票成功后,订单状态已经改变,并且退票按钮不再可用。
 > **图4-14** 退票成功
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/8cdbdcf9b5ad2690b9e28382d113c9ec.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/8cdbdcf9b5ad2690b9e28382d113c9ec.png)
 
 ### 异常输入判断以及消息提示
 
@@ -498,7 +498,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 还有注意到图上的提示信息，我们为系统做了一个统一的消息提醒框架，在任何一个界面调用，都可以展示出如图上的消息提醒，并且消息提醒还有丰富的动画效果，给整个程序增添了不少生气。
 > **图4-15** 异常输入判断以及消息提示
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/2f3992c0eaf030f779ed3e9ece3f518c.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/2f3992c0eaf030f779ed3e9ece3f518c.png)
 
 
 
@@ -511,7 +511,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 TTMS系统内部数据示意图(类图)如图5-1所示。
 > 图5-1 内部数据示意图(类图)
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/1ff492a6f6fbce8bf31db6f2f65bf9b6.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/1ff492a6f6fbce8bf31db6f2f65bf9b6.png)
 
 
 数据库
@@ -521,7 +521,7 @@ TTMS系统内部数据示意图(类图)如图5-1所示。
 
 > 图5-2 数据库表关系以及数据表定义图
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/8d4e9fa77a174591afc65ba4b5723539.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/8d4e9fa77a174591afc65ba4b5723539.png)
 
 
 
@@ -542,7 +542,7 @@ TTMS系统内部数据示意图(类图)如图5-1所示。
 
 > 图6-1 剧目管理类类图
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/6617a48c3877921a2a406b6e925a1b33.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/6617a48c3877921a2a406b6e925a1b33.png)
 
 
 
@@ -579,7 +579,7 @@ TTMS系统内部数据示意图(类图)如图5-1所示。
 
 > 图6-2 演出厅管理类和座位管理类类图
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/d248ca0a68020e1e464f1b7a20b77f31.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/d248ca0a68020e1e464f1b7a20b77f31.png)
 
 ### 处理流程
 
@@ -614,7 +614,7 @@ TTMS系统内部数据示意图(类图)如图5-1所示。
 
 > 图6-3 用户管理类类图
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/39c84286e8238b61d8b1a97769491359.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/39c84286e8238b61d8b1a97769491359.png)
 
 
 ### 处理流程
@@ -652,13 +652,13 @@ TTMS系统内部数据示意图(类图)如图5-1所示。
 
 > 图7-1 项目客户端目录结构图
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/bf081395ae8cbd6769e7000a2ac260e5.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/bf081395ae8cbd6769e7000a2ac260e5.png)
 
 项目服务器端目录结构如图7-2所示。
 
 > 图7-2 服务器端目录结构
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/8573aa9aed581b3269cfc24df88e1915.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/8573aa9aed581b3269cfc24df88e1915.png)
 
 
 
@@ -672,7 +672,7 @@ TTMS系统内部数据示意图(类图)如图5-1所示。
 
 > 图8-1 系统网络拓扑图
 
-![未命名文件 (6)](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/d582360572db4422a0dcc9f9e51b4c58.png?raw=true)
+![未命名文件 (6)](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/d582360572db4422a0dcc9f9e51b4c58.png)
 
 
 
@@ -682,5 +682,5 @@ TTMS系统内部数据示意图(类图)如图5-1所示。
 软件部署图如图8-2所示。
 > 图8-2 软件部署图
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/c33ebcdf68c46232f3f6c677e3abed4d.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/raw/master/小书匠/TTMS/c33ebcdf68c46232f3f6c677e3abed4d.png)
 
