@@ -429,7 +429,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > **图4-6** 演出厅管理
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/a115d493d2a90cace0fa81d77e85fb0d.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/c751cc3278b05a92d2dca9aa5f93b2c5.png?raw=true)
 
 ### 座位管理
 
@@ -437,7 +437,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > **图4-7** 座位管理
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/af1937d069687a3fcb2017d5c7fdf92b.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/a88eda6486a995f7788e4baa8ad78182.png?raw=true)
 
 ### 用户管理
 
@@ -445,14 +445,14 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > **图4-8** 用户管理
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/d8f8285bb0e06368f3886e6d55c95fa5.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/9c1131f03e81ca109182fc86caed0ed6.png?raw=true)
 
 ### 新增演出计划
 
 新增演出计划界面如图4-9所示，新增演出计划功能使用日期选择器和时间选择器让经理提供日期和时间,避免手动输入产生的错误。
 > **图4-9** 新增演出计划
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/8f13dd8d614759d77e6f6c9f4044a903.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/66acd2171944f316a4d3fd7fba732380.png?raw=true)
 
 
 ### 剧目管理
@@ -468,7 +468,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 
 > **图4-11** 售票
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/ef1460f508d5baa4c6ece5d2ef822382.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/190e6d69d8b3a03b4c6ff63b146f9d33.png?raw=true)
 
 
 售票成功界面如图4-12所示，售票成功后，订单id可以作为凭证，只需将此弹窗内容打印出来，加上一定的防伪措施，即可产生实体票。
@@ -483,7 +483,7 @@ HLW剧院票务管理系统软件逻辑架构图如图3-1所示，系统采用�
 退票界面如图4-13所示，售票员根据用户提供的票上的订单id，先对订单进行查询,若是合法订单id,则会显示订单信息并且显示可用的退票按钮。
 > **图4-13** 退票
 
-![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/e2e382cddc2fd9c88116e10e87bd90f4.png?raw=true)
+![](https://github.com/fujie-xiyou/Graph-bed/blob/master/小书匠/TTMS/600eb626128980aed7f98694d6926c96.png?raw=true)
 
 
 退票成功界面如图4-14所示，退票成功后,订单状态已经改变,并且退票按钮不再可用。
